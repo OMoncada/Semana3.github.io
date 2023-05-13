@@ -109,16 +109,11 @@ h4 {
     color: black;
 }
 
-.logo {
-    width: 80px;
-}
-
 .icon {
     width: 80px;
 }
 
 #hero-img {
-    display: block;
     margin: 0 auto;
     width: 100%;
   }
